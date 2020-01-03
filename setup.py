@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-YOUR-USERNAME-HERE",
+    name="simplehdlc",
     version="0.1.0",
     author="Jeremy Herbert",
     author_email="jeremy.006@gmail.com",
